@@ -3,40 +3,40 @@
 # The Evolution of Artificial Intelligence: From Logic Machines to Agentic AI:
 
 ## Introduction:
-– Defines AI and outlines its journey from rule-based logic to autonomous agents.
+- Defines AI and outlines its journey from rule-based logic to autonomous agents.
 
 ## Early Foundations (1940s–50s):
- – Alan Turing’s work and the Turing Test establish AI’s conceptual base.
+ - Alan Turing’s work and the Turing Test establish AI’s conceptual base.
 
 ## Dartmouth Conference (1956):
- – Birth of AI as a field, led by McCarthy, Minsky, and others.
+ - Birth of AI as a field, led by McCarthy, Minsky, and others.
 
 ## Symbolic AI (1956–70s):
- – Logic-based systems aimed to mimic human reasoning.
+ - Logic-based systems aimed to mimic human reasoning.
 
 ## First AI Winter (1970s):
- – Overhype and technical limits cause funding cuts.
+ - Overhype and technical limits cause funding cuts.
 
 ## Expert Systems (1980s)
- – Knowledge-based AI achieves success but struggles to scale.
+ - Knowledge-based AI achieves success but struggles to scale.
 
 ## Machine Learning (1990s–2000s)
- – Shift to data-driven models; notable success with Deep Blue.
+ - Shift to data-driven models; notable success with Deep Blue.
 
 ## Deep Learning (2010s)
- – Neural networks and GPUs drive breakthroughs in vision and speech.
+ - Neural networks and GPUs drive breakthroughs in vision and speech.
 
 ## Transformers & Generative AI (2017–2020s)
- – GPT and similar models enable text, image, and code generation.
+ - GPT and similar models enable text, image, and code generation.
 
 ## Agentic AI (2020s–Present)
- – Autonomous, reasoning agents emerge (e.g., AutoGPT, OpenAI o1).
+ - Autonomous, reasoning agents emerge (e.g., AutoGPT, OpenAI o1).
 
 ## Key Figures
- – Turing, McCarthy, Minsky, Hinton, LeCun, and Bengio shape AI’s development.
+ - Turing, McCarthy, Minsky, Hinton, LeCun, and Bengio shape AI’s development.
 
 ## Future Outlook
- – Focus shifts to ethical, safe, and collaborative human–AI systems.
+ - Focus shifts to ethical, safe, and collaborative human–AI systems.
 
 <img src="AI2.png" alt="" width="600">
 
